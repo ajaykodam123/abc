@@ -1,5 +1,5 @@
 {
-  "name": "abc",
+  "name": "RPA Challenge1",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -48,7 +48,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "9cf0668e-cbb0-49d5-8a47-fbcc5f06dff3",
+      "uniqueId": "d8430bca-a5d2-4069-9d77-1b5e12388ef5",
       "input": [],
       "output": []
     }
